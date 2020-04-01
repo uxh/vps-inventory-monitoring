@@ -1,2 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /ceping/
+Disallow: /buy/
+
+Sitemap: https://kucun.52bwg.com/sitemap.xml
